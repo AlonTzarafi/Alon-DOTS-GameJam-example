@@ -1,0 +1,57 @@
+* DONE Giant enemy boss graphics
+* DONE Enemy has turrets that fire at my ships
+** DONE Area of effect explosions
+* DONE Click to raycast a point and cause nearby ships to jump it
+** DONE Figure out mouse cursor raycast: Either click on any enemy assets, or the background
+** DONE Boost your ships to the target position - Up to 200 ships
+** DONE Only X distance away from target
+** DONE If nobody in range, mark the action as invalid
+* DONE Small plasma gun turrets. Without any smart tracking
+* TODO Make a playable gameplay
+** DONE Damage on DeathStar if ship reaches it. Otherwise kill if Z is too high
+*** DONE Show gradualDamage using a texture to draw on maybe
+** DONE Shield of DeathStar tanks many hits
+** DONE Need These for balance:
+*** DONE Turrets fire faster and turn much faster the more you click to use
+** DONE Enemy launches large ships to go in front of it and fire.
+*** DONE Five-barreled killing machine
+*** DONE An agile laser frigate.
+**** DONE Just snaps laser on nearby enemy directly. No projectile
+*** DONE Can only boost if Z > 10 or so
+*** DONE Boosted will target and directly kamikaze any nearby Frigate
+*** DONE 400 smallships can kill frigate it if collided on
+** DONE Screen flash when kill Frigate
+** DONE Some smallships are impatient, they fly very fast temporarily until reaching z=22 (in view?)
+** DONE Kamikaze should work automatically on deathstar (it's already the case :-) )
+** DONE Make mouse visible always on screen
+** DONE Make cooldown for boost ability
+*** DONE Also show ability cooldown on cursor
+** DONE Frigates explode after a delay
+** TODO Limit spawning of small ships to max 30,000 concurrent ships
+** TODO Some 0.1 of the small ships can fire tiny tiny bullets if far enough Z level
+*** TODO Show tracer lines visuals. NO collision or quadrants!
+*** TODO They do very small damage when arriving to DeathStar. Can't pierce the whole shields by themselves
+*** TODO Also they can't do any hull damage
+** TODO Also make kamikaze mechanism work on Turrets
+** TODO Healthbars for large turrets and frigates - I have ECS idea for this
+** TODO Think about a second ability to have maybe? Or maybe not needed
+*** TODO Maybe if smallships are too far back, a boost click instead JUMPS the nearest upto 400 ships
+**** TODO The ships JUMP forward as if hyperspace, screen flashes slightly as well to hide it
+** TODO Maybe graphic for all these new features????
+** TODO Think about endgame options thing
+*** TODO Maybe an extra  giant weapon on the deathstar, very rarely activated
+**** TODO Some huge long ray beam
+**** TODO The ray kills EVERYTHING in its path
+** TODO Final gameplay:
+Destroy all turrets. Destroy all frigates as they come.
+Do this so you can mass ships on the screen.
+Many ships = many bullets. With enough bullets you can pierce base shields completely.
+And then the kamikaze can blow it up
+Shows casualty score "Ships lost" - win with the fewest ships destroyed to be the best person ever to exist
+* TODO Nice for fun and visuals and stuff
+** TODO Screen shakes more and more the more that things die from DEATH TAG
+** TODO Maybe some animation of Deathstar to rotate. Both it and the ECS version of it
+** TODO Boss rotates and animates
+*** TODO Different sections of the boss rotate differently
+** TODO Fix the calculations of nearest ships to recruit
+** TODO Fix Letterbox Camera to not waste so much performance!?!?!!?!??!

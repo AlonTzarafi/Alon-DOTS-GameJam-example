@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 767487d452118504db99d44e2d813393
+timeCreated: 1434028780
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Demos/Game Demo/Bitey Dragon Demo.unity
+  uploadId: 398580

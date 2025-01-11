@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d8a1894edf0e24498cdcad1554f8d24
+timeCreated: 1446558120
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Demos/Multi-Cam Demo/Multi Camera Demo.unity
+  uploadId: 398580

@@ -1,0 +1,78 @@
+## =============== #
+## Unity generated #
+## =============== #
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary*/
+[Ll]ogs*/
+
+# ================= #
+# Publish Directory #
+# ================= #
+[Pp]ublish/
+bin/*
+!bin/folder-for-builds.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.csproj
+/*.sln*
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+.vs
+*/*/bin/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+*.suo
+
+# ========== #
+# FMOD crap  #
+# ========== #
+Assets/FMODStudioCache.asset
+Assets/FMODStudioCache.asset.meta
+Assets/StreamingAssets/*.bank
+fmod.log
+fmod_editor.log
+FMODStudioCache.asset
+
+# ========== #
+# Steamworks #
+# ========== #
+Steam/*/[Bb]uilder/**
+!Steam/*/[Bb]uilder/
+!Steam/*/[Bb]uilder/Windows
+!Steam/*/[Bb]uilder/Linux
+!Steam/*/[Bb]uilder/Windows/steamcmd.exe
+!Steam/*/[Bb]uilder/Linux/steamcmd
+!Steam/*/[Bb]uilder/Linux/crashhandler.so
+!Steam/*/[Bb]uilder/Linux/libstdc++.so.6
+!Steam/*/[Bb]uilder/Linux/steamerrorreporter
+Steam/*/[Oo]utput
+Steam/*/[Cc]ontent
+
+# ============= #
+# User Settings #
+# ============= #
+UserSettings
+
+# =========== #
+# Convenience #
+# =========== #
+[Bb]uilds/
+[Ss]amples/
+.log

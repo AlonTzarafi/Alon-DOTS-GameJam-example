@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6adcb014be23bfa4f8b8f9a3834d1315
+timeCreated: 1451422799
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Demos/Multi-Cam Demo/Graphics/Planet.mat
+  uploadId: 398580

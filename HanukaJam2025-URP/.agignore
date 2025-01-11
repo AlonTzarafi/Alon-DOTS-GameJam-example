@@ -1,0 +1,16 @@
+*.*
+!*.cs
+!*.meta
+!*.shader
+!*.cginc
+!*.compute
+!*.prefab
+!*.unity
+!*.asset
+!*.controller
+!Makefile
+!*.yml
+!*.sh
+!*.py
+!*.bat
+Temp/*

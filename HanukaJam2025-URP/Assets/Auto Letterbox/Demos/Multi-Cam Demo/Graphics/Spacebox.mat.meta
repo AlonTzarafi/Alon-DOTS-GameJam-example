@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64dc2a470bb006d4fa9fad19dfb78517
+timeCreated: 1451423527
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Demos/Multi-Cam Demo/Graphics/Spacebox.mat
+  uploadId: 398580

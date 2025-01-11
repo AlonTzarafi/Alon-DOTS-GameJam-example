@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be7f6ac96cfe4ac438b62fc9dc11af54
+timeCreated: 1437248204
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Demos/Game Demo/Graphics/TerrainTiles/Sprite Material.mat
+  uploadId: 398580

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a78c4b283abe78042bc2c46a182247dd
+timeCreated: 1456245967
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56814
+  packageName: Auto Letterbox
+  packageVersion: 1.0.3
+  assetPath: Assets/Auto Letterbox/Documentation/Help.html
+  uploadId: 398580
